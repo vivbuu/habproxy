@@ -4,7 +4,7 @@ import requests
 app = Flask(__name__)
 
 SITES = {
-    'tg': 'https://web.telegram.org',
+    'tg': 'https://web.telegram.org/a/',
     'yt': 'https://youtube.com',
 }
 
